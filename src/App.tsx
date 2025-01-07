@@ -196,7 +196,7 @@ function App() {
                 <div className="space-y-2">
                   <div className="flex items-center space-x-2 text-gray-400">
                     <Mail className="h-5 w-5" />
-                    <span>info@archstudio.com</span>
+                    <span>info@intarchidesign.com</span>
                   </div>
                   <div className="flex items-center space-x-2 text-gray-400">
                     <Phone className="h-5 w-5" />
@@ -204,7 +204,7 @@ function App() {
                   </div>
                   <div className="flex items-center space-x-2 text-gray-400">
                     <MapPin className="h-5 w-5" />
-                    <span>123 Design Street, NY</span>
+                    <span>Bahçeşehir, İstanbul</span>
                   </div>
                 </div>
               </div>
