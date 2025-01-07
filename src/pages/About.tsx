@@ -35,7 +35,7 @@ export default function About() {
           </div>
           <div className="relative h-96">
             <img
-              src="/public/images/about/abfuar_interior_architect-min.webp"
+              src="http://pskmervedemir.com/img/demo/abfuar_interior_architect-min.webp"
               alt="Architect working"
               className="w-full h-full object-cover rounded-lg shadow-lg"
             />

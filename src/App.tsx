@@ -36,7 +36,7 @@ function App() {
             <div className="flex justify-between h-16">
               <div className="flex items-center">
                 <Link to="/" className="flex items-center space-x-2">
-                  <img src="/public/images/logo/logo.png" alt="Intarchidesign Logo" style={{ height: '60px', width: 'auto' }} className="h-8 w-8" />
+                  <img src="http://pskmervedemir.com/img/demo/logo.png" alt="Intarchidesign Logo" style={{ height: '60px', width: 'auto' }} className="h-8 w-8" />
                 </Link>
               </div>
 
@@ -184,7 +184,7 @@ function App() {
             <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
               <div className="space-y-4">
                 <div className="flex items-center space-x-2">
-                  <img src="/public/images/logo/logo-white.png" alt="Intarchidesign Logo" style={{ height: '60px', width: 'auto' }} className="h-8 w-8" />
+                  <img src="http://pskmervedemir.com/img/demo/logo.png/logo-white.png" alt="Intarchidesign Logo" style={{ height: '60px', width: 'auto' }} className="h-8 w-8" />
                 </div>
                 <p className="text-gray-400">
                   Creating innovative architectural designs.
